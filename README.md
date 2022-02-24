@@ -1,2 +1,2 @@
-# starbucks-clone
-Star Bucks landing page clone using Html, Css and Javascript
+# Star-Bucks-Clone
+Star Bucks landing page clone created using Html, Css and Javascript
